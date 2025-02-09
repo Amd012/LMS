@@ -1,0 +1,3 @@
+http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/guidelines/entity_control_boundary_pattern<C4047897.html
+An example of an entity for a customer service application is a Customer entity that manages all the information about a Customer.
+A design element for this entity would include data abiout the customer,behaviour to manage the data,behaviour to validate customer information and to perform other business calculations,such as "is this customer allowed to purchase porduct X?" 
